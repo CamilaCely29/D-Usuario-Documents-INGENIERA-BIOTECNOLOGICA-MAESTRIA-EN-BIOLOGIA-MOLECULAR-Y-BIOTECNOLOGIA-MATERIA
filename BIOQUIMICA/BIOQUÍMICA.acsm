@@ -1,0 +1,39 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:62c8c931-4b69-42a1-bd88-b9acd30898b8</distributor>
+  <operatorURL>http://acs.digitaliapublishing.com/fulfillment</operatorURL>
+  <transaction>ACS4-1657645246349</transaction>
+  <purchase>54498-09-07T20:52:29+00:00</purchase>
+  <expiration>54498-09-08T05:12:29+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:59261266-5b7e-4d35-9ded-3335c149d292</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Bioquímica. Volumen 1</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stryer, Lubert L.; Berg, Jeremy M.; Tymoczko, John L.</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Editorial Reverte</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">103283</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">es</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:59261266-5b7e-4d35-9ded-3335c149d292</resource>
+      <permissions>
+        <display>
+          <duration>1814400</duration>
+        </display>
+        <excerpt>
+          <duration>1814400</duration>
+          <count initial="15" max="15" incrementInterval="5760"/>
+        </excerpt>
+        <print>
+          <duration>1814400</duration>
+          <count initial="15" max="15" incrementInterval="5760"/>
+        </print>
+        <play>
+          <duration>1814400</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>Wh0pMPkfE4zerkfDS5vinrha/S8=</hmac>
+</fulfillmentToken>
